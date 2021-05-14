@@ -7878,10 +7878,10 @@ header {
   font-weight: 300;
   letter-spacing: 1px; }
 
-@media (max-width: 767.98px) {
-  .about-section .author-img {
-    display: block;
-    height: 400px; } }
+.about-section .author-img {
+  width: auto;
+  height: auto;
+    }
 
 .wrap {
   padding: 0; }
