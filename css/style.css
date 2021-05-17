@@ -7879,9 +7879,16 @@ header {
   letter-spacing: 1px; }
 
 .about-section .author-img {
-  width: auto;
+  display: block;
+  width: 100%;
   height: auto;
     }
+.author-img img{
+  display: inline-block;
+  width: 140%;
+  height: auto
+}
+
 
 .wrap {
   padding: 0; }
